@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/ua" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/ua/com/webcamp/java_ess/lesson7/enums/ex001_enumerations" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/com/webcamp/java_ess/lesson7/enums/ex001_enumerations/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/ua/com/webcamp/java_ess/lesson7/enums/ex002_enumerations" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/com/webcamp/java_ess/lesson7/enums/ex002_enumerations/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/ua/com/webcamp/java_ess/lesson7/enums/ex003_enumerations" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/com/webcamp/java_ess/lesson7/enums/ex003_enumerations/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/ua/com/webcamp/java_ess/lesson7/enums/ex004_abstract_methods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/com/webcamp/java_ess/lesson7/enums/ex004_abstract_methods/Company.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/ua/com/webcamp/java_ess/lesson7/enums/ex004_abstract_methods/Main.java" charset="windows-1251" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
