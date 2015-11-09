@@ -1,7 +1,7 @@
 package ua.com.webcamp.java_ess.lesson7.enums.ex001_enumerations;
 
 /**
- * Перечисляемые типы (enum).
+ * пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ (enum).
  */
 enum Day {
     MONDAY, TEUSDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
@@ -9,14 +9,15 @@ enum Day {
 
 public class Main {
     public static void main(String[] args) {
-        // Объект со ссылкой на экземпляр перечисляемого типа Day.
+        // пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ Day.
         Day today = Day.SATURDAY;
         System.out.println("Today is " + today);
 
         int number = 4;
-        // Нельзя присвоить значение целого типа.
+        // пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ.
         //today = number;
         //today = 4;
     }
+
 }
 
